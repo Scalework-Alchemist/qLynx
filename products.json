@@ -1,0 +1,2761 @@
+{
+  "basicData": [
+    {
+      "name": "Mike",
+      "age": 29,
+      "height": 74,
+      "eyeColor": "brown",
+      "alias": "Scalework Alchemist",
+      "title": "Web Developer"
+    }
+  ],
+  "food": [
+    {
+      "id": "1",
+      "Name": "Cheese",
+      "Price": 2.5,
+      "Location": "Refrigerated foods"
+    },
+    { "id": "2", "Name": "Crisps", "Price": 3, "Location": "the Snack isle" },
+    {
+      "id": "3",
+      "Name": "Pizza",
+      "Price": 4,
+      "Location": "Refrigerated foods"
+    },
+    {
+      "id": "4",
+      "Name": "Chocolate",
+      "Price": 1.5,
+      "Location": "the Snack isle"
+    },
+    {
+      "id": "5",
+      "Name": "Self-raising flour",
+      "Price": 1.5,
+      "Location": "Home baking"
+    },
+    {
+      "id": "6",
+      "Name": "Ground almonds",
+      "Price": 3,
+      "Location": "Home baking"
+    }
+  ],
+  "unlimited": [
+    {
+      "Country": "Australia",
+      "Destinations": "Landline & Cellular"
+    },
+    {
+      "Country": "Bermuda",
+      "Destinations": "Landline & Cellular"
+    },
+    {
+      "Country": "Brazil",
+      "Destinations": "Landline"
+    },
+    {
+      "Country": "Brunei",
+      "Destinations": "Landline"
+    },
+    {
+      "Country": "Canada",
+      "Destinations": "Landline & Cellular"
+    },
+    {
+      "Country": "Chile",
+      "Destinations": "Landline"
+    },
+    {
+      "Country": "China",
+      "Destinations": "Landline & Cellular"
+    },
+    {
+      "Country": "Colombia",
+      "Destinations": "Landline & Cellular"
+    },
+    {
+      "Country": "Costa Rica",
+      "Destinations": "Landline"
+    },
+    {
+      "Country": "Croatia",
+      "Destinations": "Landline"
+    },
+    {
+      "Country": "Cyprus",
+      "Destinations": "Landline & Cellular"
+    },
+    {
+      "Country": "Czech Republic",
+      "Destinations": "Landline"
+    },
+    {
+      "Country": "Denmark",
+      "Destinations": "Landline & Cellular"
+    },
+    {
+      "Country": "Estonia",
+      "Destinations": "Landline"
+    },
+    {
+      "Country": "France",
+      "Destinations": "Landline"
+    },
+    {
+      "Country": "French Guiana",
+      "Destinations": "Landline"
+    },
+    {
+      "Country": "Germany",
+      "Destinations": "Landline & Cellular"
+    },
+    {
+      "Country": "Gibraltar",
+      "Destinations": "Landline"
+    },
+    {
+      "Country": "Greece",
+      "Destinations": "Landline"
+    },
+    {
+      "Country": "Guadeloupe",
+      "Destinations": "Landline"
+    },
+    {
+      "Country": "Guam",
+      "Destinations": "Landline & Cellular"
+    },
+    {
+      "Country": "Hong Kong",
+      "Destinations": "Landline & Cellular"
+    },
+    {
+      "Country": "Hungary",
+      "Destinations": "Landline"
+    },
+    {
+      "Country": "Iceland",
+      "Destinations": "Landline & Cellular"
+    },
+    {
+      "Country": "India",
+      "Destinations": "Landline & Cellular"
+    },
+    {
+      "Country": "Ireland",
+      "Destinations": "Landline & Cellular"
+    },
+    {
+      "Country": "Israel",
+      "Destinations": "Landline & Cellular"
+    },
+    {
+      "Country": "Italy",
+      "Destinations": "Landline"
+    },
+    {
+      "Country": "Japan",
+      "Destinations": "Landline"
+    },
+    {
+      "Country": "Kazakhstan",
+      "Destinations": "Landline"
+    },
+    {
+      "Country": "Indonesia",
+      "Destinations": "Landline"
+    },
+    {
+      "Country": "Luxembourg",
+      "Destinations": "Landline & Cellular"
+    },
+    {
+      "Country": "Malaysia",
+      "Destinations": "Landline & Cellular"
+    },
+    {
+      "Country": "Malta",
+      "Destinations": "Landline & Cellular"
+    },
+    {
+      "Country": "Mariana Islands",
+      "Destinations": "Landline & Cellular"
+    },
+    {
+      "Country": "Martinique",
+      "Destinations": "Landline"
+    },
+    {
+      "Country": "Mexico",
+      "Destinations": "Landline & Cellular"
+    },
+    {
+      "Country": "Mongolia",
+      "Destinations": "Landline & Cellular"
+    },
+    {
+      "Country": "Morocco",
+      "Destinations": "Landline"
+    },
+    {
+      "Country": "New Zealand",
+      "Destinations": "Landline"
+    },
+    {
+      "Country": "Norway",
+      "Destinations": "Landline & Cellular"
+    },
+    {
+      "Country": "Peru",
+      "Destinations": "Landline"
+    },
+    {
+      "Country": "Poland",
+      "Destinations": "Landline"
+    },
+    {
+      "Country": "Portugal",
+      "Destinations": "Landline"
+    },
+    {
+      "Country": "Puerto Rico",
+      "Destinations": "Landline & Cellular"
+    },
+    {
+      "Country": "Reunion Island",
+      "Destinations": "Landline & Cellular"
+    },
+    {
+      "Country": "Romania",
+      "Destinations": "Landline & Cellular"
+    },
+    {
+      "Country": "Russia",
+      "Destinations": "Landline"
+    },
+    {
+      "Country": "Singapore",
+      "Destinations": "Landline & Cellular"
+    },
+    {
+      "Country": "Slovakia",
+      "Destinations": "Landline"
+    },
+    {
+      "Country": "South Korea",
+      "Destinations": "Landline & Cellular"
+    },
+    {
+      "Country": "Spain",
+      "Destinations": "Landline"
+    },
+    {
+      "Country": "Sweden",
+      "Destinations": "Landline & Cellular"
+    },
+    {
+      "Country": "Switzerland",
+      "Destinations": "Landline"
+    },
+    {
+      "Country": "Taiwan",
+      "Destinations": "Landline"
+    },
+    {
+      "Country": "Thailand",
+      "Destinations": "Landline & Cellular"
+    },
+    {
+      "Country": "Turkey",
+      "Destinations": "Landline"
+    },
+    {
+      "Country": "United Kingdom",
+      "Destinations": "Landline & Cellular"
+    },
+    {
+      "Country": "Monaco",
+      "Destinations": "Landline"
+    },
+    {
+      "Country": "US Virgin Islands",
+      "Destinations": "Landline & Cellular"
+    },
+    {
+      "Country": "Venezuela",
+      "Destinations": "Landline"
+    },
+    {
+      "Country": "Namibia",
+      "Destinations": "Landline"
+    },
+    {
+      "Country": "Paraguay",
+      "Destinations": "Landline"
+    },
+    {
+      "Country": "San Marino",
+      "Destinations": "Landline"
+    },
+    {
+      "Country": "Swaziland",
+      "Destinations": "Landline"
+    },
+    {
+      "Country": "Andorra",
+      "Destinations": "Landline"
+    },
+    {
+      "Country": "Argentina",
+      "Destinations": "Landline"
+    },
+    {
+      "Country": "Macao",
+      "Destinations": "Landline"
+    }
+  ],
+  "rate": [
+    {
+      "Region": "Afghanistan",
+      "Rate": 0.238
+    },
+    {
+      "Region": "Afghanistan - Cellular",
+      "Rate": 0.111
+    },
+    {
+      "Region": "Albania",
+      "Rate": 0.143
+    },
+    {
+      "Region": "Albania - Cellular",
+      "Rate": 0.315
+    },
+    {
+      "Region": "Albania - Olo",
+      "Rate": 0.143
+    },
+    {
+      "Region": "Algeria",
+      "Rate": 0.078
+    },
+    {
+      "Region": "Algeria - Cellular",
+      "Rate": 0.431
+    },
+    {
+      "Region": "American Samoa",
+      "Rate": 0.016
+    },
+    {
+      "Region": "American Samoa - Cellular",
+      "Rate": 0.016
+    },
+    {
+      "Region": "Andorra",
+      "Rate": 0.169
+    },
+    {
+      "Region": "Andorra - Cellular",
+      "Rate": 0.169
+    },
+    {
+      "Region": "Angola",
+      "Rate": 0.095
+    },
+    {
+      "Region": "Angola - Cellular",
+      "Rate": 0.118
+    },
+    {
+      "Region": "Anguilla",
+      "Rate": 0.19
+    },
+    {
+      "Region": "Anguilla - Cellular",
+      "Rate": 0.216
+    },
+    {
+      "Region": "Antarctica",
+      "Rate": 0.95
+    },
+    {
+      "Region": "Antigua and Barbuda",
+      "Rate": 0.165
+    },
+    {
+      "Region": "Antigua and Barbuda - Cellular",
+      "Rate": 0.216
+    },
+    {
+      "Region": "Argentina",
+      "Rate": 0.013
+    },
+    {
+      "Region": "Argentina - Buenos Aires",
+      "Rate": 0.01
+    },
+    {
+      "Region": "Argentina - Cellular",
+      "Rate": 0.143
+    },
+    {
+      "Region": "Armenia",
+      "Rate": 0.175
+    },
+    {
+      "Region": "Armenia - Cellular",
+      "Rate": 0.213
+    },
+    {
+      "Region": "Armenia - Yerevan",
+      "Rate": 0.175
+    },
+    {
+      "Region": "Aruba",
+      "Rate": 0.095
+    },
+    {
+      "Region": "Aruba - Cellular",
+      "Rate": 0.216
+    },
+    {
+      "Region": "Ascension Island",
+      "Rate": 0.526
+    },
+    {
+      "Region": "Australia",
+      "Rate": 0.018
+    },
+    {
+      "Region": "Australia - Cellular",
+      "Rate": 0.048
+    },
+    {
+      "Region": "Austria",
+      "Rate": 0.019
+    },
+    {
+      "Region": "Austria - Cellular",
+      "Rate": 0.038
+    },
+    {
+      "Region": "Austria - Cellular - Special",
+      "Rate": 0.038
+    },
+    {
+      "Region": "Azerbaijan",
+      "Rate": 0.238
+    },
+    {
+      "Region": "Azerbaijan - Cellular",
+      "Rate": 0.315
+    },
+    {
+      "Region": "Bahamas",
+      "Rate": 0.102
+    },
+    {
+      "Region": "Bahamas - Cellular",
+      "Rate": 0.149
+    },
+    {
+      "Region": "Bahrain",
+      "Rate": 0.099
+    },
+    {
+      "Region": "Bahrain - Cellular",
+      "Rate": 0.124
+    },
+    {
+      "Region": "Bangladesh",
+      "Rate": 0.025
+    },
+    {
+      "Region": "Bangladesh - Cellular",
+      "Rate": 0.023
+    },
+    {
+      "Region": "Barbados",
+      "Rate": 0.143
+    },
+    {
+      "Region": "Barbados - Cellular",
+      "Rate": 0.226
+    },
+    {
+      "Region": "Belarus",
+      "Rate": 0.295
+    },
+    {
+      "Region": "Belarus - Cellular",
+      "Rate": 0.314
+    },
+    {
+      "Region": "Belgium",
+      "Rate": 0.023
+    },
+    {
+      "Region": "Belgium - Cellular",
+      "Rate": 0.132
+    },
+    {
+      "Region": "Belgium - Cellular - Other",
+      "Rate": 0.132
+    },
+    {
+      "Region": "Belize",
+      "Rate": 0.238
+    },
+    {
+      "Region": "Belize - Cellular",
+      "Rate": 0.238
+    },
+    {
+      "Region": "Benin",
+      "Rate": 0.316
+    },
+    {
+      "Region": "Benin - Cellular",
+      "Rate": 0.316
+    },
+    {
+      "Region": "Bermuda",
+      "Rate": 0.038
+    },
+    {
+      "Region": "Bermuda - Cellular",
+      "Rate": 0.038
+    },
+    {
+      "Region": "Bhutan",
+      "Rate": 0.118
+    },
+    {
+      "Region": "Bhutan - Cellular",
+      "Rate": 0.118
+    },
+    {
+      "Region": "Bolivia",
+      "Rate": 0.101
+    },
+    {
+      "Region": "Bolivia - Cellular",
+      "Rate": 0.158
+    },
+    {
+      "Region": "Bolivia - Cochabamba",
+      "Rate": 0.114
+    },
+    {
+      "Region": "Bolivia - Equal Access",
+      "Rate": 0.101
+    },
+    {
+      "Region": "Bolivia - La Paz",
+      "Rate": 0.093
+    },
+    {
+      "Region": "Bolivia - Rural",
+      "Rate": 0.206
+    },
+    {
+      "Region": "Bolivia - Santa Cruz",
+      "Rate": 0.095
+    },
+    {
+      "Region": "Bosnia and Herzegovina",
+      "Rate": 0.158
+    },
+    {
+      "Region": "Bosnia and Herzegovina - Cellular",
+      "Rate": 0.339
+    },
+    {
+      "Region": "Botswana",
+      "Rate": 0.095
+    },
+    {
+      "Region": "Botswana - Cellular",
+      "Rate": 0.216
+    },
+    {
+      "Region": "Brazil",
+      "Rate": 0.025
+    },
+    {
+      "Region": "Brazil - Cellular",
+      "Rate": 0.023
+    },
+    {
+      "Region": "Brazil - Rio de Janeiro",
+      "Rate": 0.011
+    },
+    {
+      "Region": "Brazil - Sao Paulo",
+      "Rate": 0.011
+    },
+    {
+      "Region": "British Virgin Islands",
+      "Rate": 0.216
+    },
+    {
+      "Region": "British Virgin Islands - Cellular",
+      "Rate": 0.216
+    },
+    {
+      "Region": "Brunei",
+      "Rate": 0.038
+    },
+    {
+      "Region": "Brunei - Cellular",
+      "Rate": 0.038
+    },
+    {
+      "Region": "Bulgaria",
+      "Rate": 0.238
+    },
+    {
+      "Region": "Bulgaria - Cellular",
+      "Rate": 0.238
+    },
+    {
+      "Region": "Burkina Faso",
+      "Rate": 1.109
+    },
+    {
+      "Region": "Burkina Faso - Cellular - Celtel",
+      "Rate": 1.109
+    },
+    {
+      "Region": "Burkina Faso - Cellular - Telecel",
+      "Rate": 1.109
+    },
+    {
+      "Region": "Burkina Faso - Cellular - Telmob",
+      "Rate": 1.109
+    },
+    {
+      "Region": "Burundi",
+      "Rate": 0.665
+    },
+    {
+      "Region": "Burundi - Cellular",
+      "Rate": 0.665
+    },
+    {
+      "Region": "Cambodia",
+      "Rate": 0.068
+    },
+    {
+      "Region": "Cambodia - Cellular",
+      "Rate": 0.061
+    },
+    {
+      "Region": "Cameroon",
+      "Rate": 0.105
+    },
+    {
+      "Region": "Cameroon - Cellular - MTN",
+      "Rate": 0.19
+    },
+    {
+      "Region": "Cameroon - Cellular - Orange",
+      "Rate": 0.238
+    },
+    {
+      "Region": "Canada",
+      "Rate": 0.015
+    },
+    {
+      "Region": "Canada - Northern Territories",
+      "Rate": 0.015
+    },
+    {
+      "Region": "Cape Verde",
+      "Rate": 0.171
+    },
+    {
+      "Region": "Cape Verde - Cellular",
+      "Rate": 0.263
+    },
+    {
+      "Region": "Cayman Islands",
+      "Rate": 0.114
+    },
+    {
+      "Region": "Cayman Islands - Cellular",
+      "Rate": 0.162
+    },
+    {
+      "Region": "Central African Republic",
+      "Rate": 0.791
+    },
+    {
+      "Region": "Central African Republic - Cellular",
+      "Rate": 0.791
+    },
+    {
+      "Region": "Chad",
+      "Rate": 0.526
+    },
+    {
+      "Region": "Chad - Cellular",
+      "Rate": 0.526
+    },
+    {
+      "Region": "Chile",
+      "Rate": 0.019
+    },
+    {
+      "Region": "Chile - Cellular",
+      "Rate": 0.045
+    },
+    {
+      "Region": "Chile - Easter Island",
+      "Rate": 1.14
+    },
+    {
+      "Region": "Chile - Rural",
+      "Rate": 0.019
+    },
+    {
+      "Region": "Chile - Santiago",
+      "Rate": 0.019
+    },
+    {
+      "Region": "China",
+      "Rate": 0.01
+    },
+    {
+      "Region": "China - Beijing",
+      "Rate": 0.01
+    },
+    {
+      "Region": "China - Cellular",
+      "Rate": 0.01
+    },
+    {
+      "Region": "China - Shanghai",
+      "Rate": 0.01
+    },
+    {
+      "Region": "Colombia",
+      "Rate": 0.023
+    },
+    {
+      "Region": "Colombia - Armenia",
+      "Rate": 0.023
+    },
+    {
+      "Region": "Colombia - Barranquilla",
+      "Rate": 0.023
+    },
+    {
+      "Region": "Colombia - Bogota",
+      "Rate": 0.023
+    },
+    {
+      "Region": "Colombia - Bucaramanga",
+      "Rate": 0.023
+    },
+    {
+      "Region": "Colombia - Cali",
+      "Rate": 0.023
+    },
+    {
+      "Region": "Colombia - Cartagena",
+      "Rate": 0.023
+    },
+    {
+      "Region": "Colombia - Cellular",
+      "Rate": 0.019
+    },
+    {
+      "Region": "Colombia - Cellular - Comcel",
+      "Rate": 0.019
+    },
+    {
+      "Region": "Colombia - Manizales",
+      "Rate": 0.023
+    },
+    {
+      "Region": "Colombia - Medellin",
+      "Rate": 0.023
+    },
+    {
+      "Region": "Colombia - Pereira",
+      "Rate": 0.023
+    },
+    {
+      "Region": "Colombia - Rural",
+      "Rate": 0.023
+    },
+    {
+      "Region": "Comoros",
+      "Rate": 1.109
+    },
+    {
+      "Region": "Comoros - Cellular",
+      "Rate": 1.109
+    },
+    {
+      "Region": "Congo",
+      "Rate": 0.364
+    },
+    {
+      "Region": "Congo - Cellular",
+      "Rate": 0.364
+    },
+    {
+      "Region": "Cook Islands",
+      "Rate": 0.95
+    },
+    {
+      "Region": "Costa Rica",
+      "Rate": 0.038
+    },
+    {
+      "Region": "Costa Rica - Cellular",
+      "Rate": 0.057
+    },
+    {
+      "Region": "Croatia",
+      "Rate": 0.076
+    },
+    {
+      "Region": "Croatia - Cellular",
+      "Rate": 0.134
+    },
+    {
+      "Region": "Cuba",
+      "Rate": 0.79
+    },
+    {
+      "Region": "Cuba - Cellular",
+      "Rate": 0.79
+    },
+    {
+      "Region": "Cyprus",
+      "Rate": 0.013
+    },
+    {
+      "Region": "Cyprus - Cellular",
+      "Rate": 0.048
+    },
+    {
+      "Region": "Czech Republic",
+      "Rate": 0.023
+    },
+    {
+      "Region": "Czech Republic - Cellular",
+      "Rate": 0.073
+    },
+    {
+      "Region": "Czech Republic - Prague",
+      "Rate": 0.023
+    },
+    {
+      "Region": "Democratic Republic Congo",
+      "Rate": 0.19
+    },
+    {
+      "Region": "Democratic Republic Congo - Cellular",
+      "Rate": 0.276
+    },
+    {
+      "Region": "Denmark",
+      "Rate": 0.015
+    },
+    {
+      "Region": "Denmark - Cellular",
+      "Rate": 0.048
+    },
+    {
+      "Region": "Diego Garcia",
+      "Rate": 0.846
+    },
+    {
+      "Region": "Djibouti",
+      "Rate": 0.333
+    },
+    {
+      "Region": "Djibouti - Cellular",
+      "Rate": 0.333
+    },
+    {
+      "Region": "Dominica",
+      "Rate": 0.17
+    },
+    {
+      "Region": "Dominica - Cellular",
+      "Rate": 0.216
+    },
+    {
+      "Region": "Dominican Republic",
+      "Rate": 0.034
+    },
+    {
+      "Region": "Dominican Republic - Cellular",
+      "Rate": 0.101
+    },
+    {
+      "Region": "East Timor",
+      "Rate": 0.95
+    },
+    {
+      "Region": "Ecuador",
+      "Rate": 0.111
+    },
+    {
+      "Region": "Ecuador - Cellular - Alegro",
+      "Rate": 0.181
+    },
+    {
+      "Region": "Ecuador - Cellular - Movistar",
+      "Rate": 0.21
+    },
+    {
+      "Region": "Ecuador - Cellular - Porta",
+      "Rate": 0.21
+    },
+    {
+      "Region": "Ecuador - Cuenca",
+      "Rate": 0.118
+    },
+    {
+      "Region": "Ecuador - Guayaquil",
+      "Rate": 0.111
+    },
+    {
+      "Region": "Ecuador - Quito",
+      "Rate": 0.111
+    },
+    {
+      "Region": "Egypt",
+      "Rate": 0.092
+    },
+    {
+      "Region": "Egypt - Cairo",
+      "Rate": 0.092
+    },
+    {
+      "Region": "Egypt - Cellular - Etisalat",
+      "Rate": 0.127
+    },
+    {
+      "Region": "Egypt - Cellular - Other",
+      "Rate": 0.11
+    },
+    {
+      "Region": "El Salvador",
+      "Rate": 0.095
+    },
+    {
+      "Region": "El Salvador - Cellular - CTE",
+      "Rate": 0.143
+    },
+    {
+      "Region": "El Salvador - Cellular - Digicell",
+      "Rate": 0.143
+    },
+    {
+      "Region": "El Salvador - Cellular - Other",
+      "Rate": 0.175
+    },
+    {
+      "Region": "El Salvador - Cellular - Telefonica",
+      "Rate": 0.171
+    },
+    {
+      "Region": "El Salvador - Cellular - Tmovil",
+      "Rate": 0.171
+    },
+    {
+      "Region": "El Salvador - CTE S.A.",
+      "Rate": 0.143
+    },
+    {
+      "Region": "El Salvador - Telefonica",
+      "Rate": 0.171
+    },
+    {
+      "Region": "Equatorial Guinea",
+      "Rate": 0.392
+    },
+    {
+      "Region": "Equatorial Guinea - Cellular",
+      "Rate": 0.392
+    },
+    {
+      "Region": "Eritrea",
+      "Rate": 0.26
+    },
+    {
+      "Region": "Eritrea - Cellular",
+      "Rate": 0.26
+    },
+    {
+      "Region": "Estonia",
+      "Rate": 1.109
+    },
+    {
+      "Region": "Estonia - Cellular",
+      "Rate": 1.109
+    },
+    {
+      "Region": "Estonia - Premium Services",
+      "Rate": 1.109
+    },
+    {
+      "Region": "Ethiopia",
+      "Rate": 0.19
+    },
+    {
+      "Region": "Ethiopia - Addis Ababa",
+      "Rate": 0.19
+    },
+    {
+      "Region": "Ethiopia - Cellular",
+      "Rate": 0.19
+    },
+    {
+      "Region": "Falkland Islands",
+      "Rate": 0.38
+    },
+    {
+      "Region": "Faroe Islands",
+      "Rate": 0.665
+    },
+    {
+      "Region": "Faroe Islands - Cellular",
+      "Rate": 0.665
+    },
+    {
+      "Region": "Fiji Islands",
+      "Rate": 0.238
+    },
+    {
+      "Region": "Fiji Islands - Cellular",
+      "Rate": 0.238
+    },
+    {
+      "Region": "Finland",
+      "Rate": 0.051
+    },
+    {
+      "Region": "Finland - Cellular",
+      "Rate": 0.038
+    },
+    {
+      "Region": "France",
+      "Rate": 0.019
+    },
+    {
+      "Region": "France - Cellular",
+      "Rate": 0.063
+    },
+    {
+      "Region": "France - Cellular - Globalstar",
+      "Rate": 0.063
+    },
+    {
+      "Region": "French Guiana",
+      "Rate": 0.038
+    },
+    {
+      "Region": "French Guiana - Cellular",
+      "Rate": 0.038
+    },
+    {
+      "Region": "French Polynesia",
+      "Rate": 0.285
+    },
+    {
+      "Region": "French Polynesia - Cellular",
+      "Rate": 0.285
+    },
+    {
+      "Region": "Gabon",
+      "Rate": 0.43
+    },
+    {
+      "Region": "Gabon - Cellular",
+      "Rate": 0.43
+    },
+    {
+      "Region": "Gambia",
+      "Rate": 0.57
+    },
+    {
+      "Region": "Gambia - Cellular",
+      "Rate": 0.653
+    },
+    {
+      "Region": "Georgia",
+      "Rate": 0.17
+    },
+    {
+      "Region": "Georgia - Cellular",
+      "Rate": 0.264
+    },
+    {
+      "Region": "Germany",
+      "Rate": 0.019
+    },
+    {
+      "Region": "Germany - Cellular",
+      "Rate": 0.029
+    },
+    {
+      "Region": "Germany - Cellular - E Plus",
+      "Rate": 0.029
+    },
+    {
+      "Region": "Ghana",
+      "Rate": 0.169
+    },
+    {
+      "Region": "Ghana - Cellular - MTN",
+      "Rate": 0.158
+    },
+    {
+      "Region": "Ghana - Cellular - Other",
+      "Rate": 0.21
+    },
+    {
+      "Region": "Ghana - Cellular - Vodafone",
+      "Rate": 0.21
+    },
+    {
+      "Region": "Gibraltar",
+      "Rate": 0.038
+    },
+    {
+      "Region": "Gibraltar - Cellular",
+      "Rate": 0.198
+    },
+    {
+      "Region": "GMSS",
+      "Rate": 9.249
+    },
+    {
+      "Region": "Greece",
+      "Rate": 0.019
+    },
+    {
+      "Region": "Greece - Cellular",
+      "Rate": 0.067
+    },
+    {
+      "Region": "Greenland",
+      "Rate": 0.526
+    },
+    {
+      "Region": "Grenada",
+      "Rate": 0.19
+    },
+    {
+      "Region": "Grenada - Cellular",
+      "Rate": 0.226
+    },
+    {
+      "Region": "Guadeloupe",
+      "Rate": 0.023
+    },
+    {
+      "Region": "Guadeloupe - Cellular",
+      "Rate": 0.038
+    },
+    {
+      "Region": "Guam",
+      "Rate": 0.016
+    },
+    {
+      "Region": "Guam - Cellular",
+      "Rate": 0.016
+    },
+    {
+      "Region": "Guantanamo Bay",
+      "Rate": 0.79
+    },
+    {
+      "Region": "Guatemala",
+      "Rate": 0.078
+    },
+    {
+      "Region": "Guatemala - Cellular - Comcel",
+      "Rate": 0.146
+    },
+    {
+      "Region": "Guatemala - Cellular - Sercom/Claro",
+      "Rate": 0.118
+    },
+    {
+      "Region": "Guatemala - Cellular - Telefonica",
+      "Rate": 0.134
+    },
+    {
+      "Region": "Guinea",
+      "Rate": 0.238
+    },
+    {
+      "Region": "Guinea - Bissau",
+      "Rate": 0.43
+    },
+    {
+      "Region": "Guinea - Cellular - Areeba",
+      "Rate": 0.364
+    },
+    {
+      "Region": "Guinea - Cellular - Cellcom",
+      "Rate": 0.364
+    },
+    {
+      "Region": "Guinea - Cellular - Intercel",
+      "Rate": 0.364
+    },
+    {
+      "Region": "Guinea - Cellular - Orange",
+      "Rate": 0.364
+    },
+    {
+      "Region": "Guinea - Cellular - Sotelgui",
+      "Rate": 0.364
+    },
+    {
+      "Region": "Guyana",
+      "Rate": 0.216
+    },
+    {
+      "Region": "Guyana - Cellular - Digicel",
+      "Rate": 0.096
+    },
+    {
+      "Region": "Guyana - Cellular - Other",
+      "Rate": 0.249
+    },
+    {
+      "Region": "Haiti",
+      "Rate": 0.19
+    },
+    {
+      "Region": "Haiti - Cellular - Comcel",
+      "Rate": 0.27
+    },
+    {
+      "Region": "Haiti - Cellular - Digicel",
+      "Rate": 0.27
+    },
+    {
+      "Region": "Haiti - Cellular - Other",
+      "Rate": 0.238
+    },
+    {
+      "Region": "Honduras",
+      "Rate": 0.118
+    },
+    {
+      "Region": "Honduras - Cellular - Celtel",
+      "Rate": 0.165
+    },
+    {
+      "Region": "Honduras - Cellular - Digicel",
+      "Rate": 0.143
+    },
+    {
+      "Region": "Honduras - Cellular - Hondutel",
+      "Rate": 0.143
+    },
+    {
+      "Region": "Honduras - Cellular - Megatel",
+      "Rate": 0.143
+    },
+    {
+      "Region": "Hong Kong",
+      "Rate": 0.01
+    },
+    {
+      "Region": "Hong Kong - Cellular",
+      "Rate": 0.019
+    },
+    {
+      "Region": "Hungary",
+      "Rate": 0.023
+    },
+    {
+      "Region": "Hungary - Cellular",
+      "Rate": 0.086
+    },
+    {
+      "Region": "Iceland",
+      "Rate": 0.03
+    },
+    {
+      "Region": "Iceland - Cellular",
+      "Rate": 0.038
+    },
+    {
+      "Region": "India",
+      "Rate": 0.01
+    },
+    {
+      "Region": "India - Cellular",
+      "Rate": 0.01
+    },
+    {
+      "Region": "Indonesia",
+      "Rate": 0.038
+    },
+    {
+      "Region": "Indonesia - Cellular",
+      "Rate": 0.038
+    },
+    {
+      "Region": "Indonesia - Jakarta",
+      "Rate": 0.023
+    },
+    {
+      "Region": "Indonesia - Surabaya",
+      "Rate": 0.038
+    },
+    {
+      "Region": "Inmarsat",
+      "Rate": 8.895
+    },
+    {
+      "Region": "International Networks",
+      "Rate": 4.399
+    },
+    {
+      "Region": "Iran",
+      "Rate": 0.122
+    },
+    {
+      "Region": "Iran - Cellular",
+      "Rate": 0.14
+    },
+    {
+      "Region": "Iran - Tehran",
+      "Rate": 0.096
+    },
+    {
+      "Region": "Iraq",
+      "Rate": 0.101
+    },
+    {
+      "Region": "Iraq - Baghdad",
+      "Rate": 0.129
+    },
+    {
+      "Region": "Iraq - Cellular",
+      "Rate": 0.198
+    },
+    {
+      "Region": "Ireland",
+      "Rate": 0.013
+    },
+    {
+      "Region": "Ireland - Cellular",
+      "Rate": 0.086
+    },
+    {
+      "Region": "Israel",
+      "Rate": 0.016
+    },
+    {
+      "Region": "Israel - Cellular",
+      "Rate": 0.035
+    },
+    {
+      "Region": "Israel - Palestine Authority",
+      "Rate": 0.19
+    },
+    {
+      "Region": "Israel - Palestine Authority - Cellular",
+      "Rate": 0.19
+    },
+    {
+      "Region": "Italy",
+      "Rate": 0.019
+    },
+    {
+      "Region": "Italy - Cellular",
+      "Rate": 0.029
+    },
+    {
+      "Region": "Ivory Coast",
+      "Rate": 1.109
+    },
+    {
+      "Region": "Ivory Coast - Cellular - Moov",
+      "Rate": 1.109
+    },
+    {
+      "Region": "Ivory Coast - Cellular - MTN",
+      "Rate": 1.109
+    },
+    {
+      "Region": "Ivory Coast - Cellular - Orange",
+      "Rate": 1.109
+    },
+    {
+      "Region": "Ivory Coast - Cellular - Other",
+      "Rate": 1.109
+    },
+    {
+      "Region": "Jamaica",
+      "Rate": 0.137
+    },
+    {
+      "Region": "Jamaica - Cellular",
+      "Rate": 0.19
+    },
+    {
+      "Region": "Japan",
+      "Rate": 0.029
+    },
+    {
+      "Region": "Japan - Cellular",
+      "Rate": 0.063
+    },
+    {
+      "Region": "Jordan",
+      "Rate": 0.156
+    },
+    {
+      "Region": "Jordan - Cellular",
+      "Rate": 0.183
+    },
+    {
+      "Region": "Kazakhstan",
+      "Rate": 0.03
+    },
+    {
+      "Region": "Kazakhstan - Almaty",
+      "Rate": 0.03
+    },
+    {
+      "Region": "Kazakhstan - Astana",
+      "Rate": 0.03
+    },
+    {
+      "Region": "Kazakhstan - Cellular",
+      "Rate": 0.143
+    },
+    {
+      "Region": "Kazakhstan - Karaganda",
+      "Rate": 0.03
+    },
+    {
+      "Region": "Kenya",
+      "Rate": 0.106
+    },
+    {
+      "Region": "Kenya - Cellular - Celtel",
+      "Rate": 0.143
+    },
+    {
+      "Region": "Kenya - Cellular - Orange",
+      "Rate": 0.161
+    },
+    {
+      "Region": "Kenya - Cellular - Other",
+      "Rate": 0.072
+    },
+    {
+      "Region": "Kenya - Cellular - Safaricom",
+      "Rate": 0.093
+    },
+    {
+      "Region": "Kiribati",
+      "Rate": 0.817
+    },
+    {
+      "Region": "Kuwait",
+      "Rate": 0.08
+    },
+    {
+      "Region": "Kuwait - Cellular",
+      "Rate": 0.078
+    },
+    {
+      "Region": "Kyrgyzstan",
+      "Rate": 0.181
+    },
+    {
+      "Region": "Kyrgyzstan - Cellular",
+      "Rate": 0.181
+    },
+    {
+      "Region": "Laos",
+      "Rate": 0.085
+    },
+    {
+      "Region": "Laos - Cellular",
+      "Rate": 0.085
+    },
+    {
+      "Region": "Latvia",
+      "Rate": 1.109
+    },
+    {
+      "Region": "Latvia - Cellular",
+      "Rate": 1.109
+    },
+    {
+      "Region": "Latvia - Olo",
+      "Rate": 1.109
+    },
+    {
+      "Region": "Latvia - Premium Services",
+      "Rate": 1.109
+    },
+    {
+      "Region": "Lebanon",
+      "Rate": 0.086
+    },
+    {
+      "Region": "Lebanon - Cellular",
+      "Rate": 0.158
+    },
+    {
+      "Region": "Lesotho",
+      "Rate": 0.19
+    },
+    {
+      "Region": "Lesotho - Cellular",
+      "Rate": 0.19
+    },
+    {
+      "Region": "Liberia",
+      "Rate": 1.109
+    },
+    {
+      "Region": "Liberia - Cellular - Cellcom",
+      "Rate": 1.109
+    },
+    {
+      "Region": "Liberia - Cellular - Comium",
+      "Rate": 1.109
+    },
+    {
+      "Region": "Liberia - Cellular - Libercell",
+      "Rate": 1.109
+    },
+    {
+      "Region": "Liberia - Cellular - Lonestar",
+      "Rate": 1.109
+    },
+    {
+      "Region": "Libya",
+      "Rate": 0.278
+    },
+    {
+      "Region": "Libya - Cellular",
+      "Rate": 0.278
+    },
+    {
+      "Region": "Libya - Cellular - Al Hurra",
+      "Rate": 0.278
+    },
+    {
+      "Region": "Liechtenstein",
+      "Rate": 0.122
+    },
+    {
+      "Region": "Liechtenstein - Cellular",
+      "Rate": 0.122
+    },
+    {
+      "Region": "Liechtenstein - Premium Services",
+      "Rate": 0.122
+    },
+    {
+      "Region": "Lithuania",
+      "Rate": 1.109
+    },
+    {
+      "Region": "Lithuania - Cellular",
+      "Rate": 1.109
+    },
+    {
+      "Region": "Lithuania - Personal Numbering",
+      "Rate": 1.109
+    },
+    {
+      "Region": "Luxembourg",
+      "Rate": 0.019
+    },
+    {
+      "Region": "Luxembourg - Cellular",
+      "Rate": 0.038
+    },
+    {
+      "Region": "Macao",
+      "Rate": 0.048
+    },
+    {
+      "Region": "Macao - Cellular",
+      "Rate": 0.048
+    },
+    {
+      "Region": "Macedonia",
+      "Rate": 0.118
+    },
+    {
+      "Region": "Macedonia - Cellular",
+      "Rate": 0.315
+    },
+    {
+      "Region": "Madagascar",
+      "Rate": 0.593
+    },
+    {
+      "Region": "Madagascar - Cellular",
+      "Rate": 0.593
+    },
+    {
+      "Region": "Malawi",
+      "Rate": 0.395
+    },
+    {
+      "Region": "Malawi - Cellular",
+      "Rate": 0.395
+    },
+    {
+      "Region": "Malaysia",
+      "Rate": 0.013
+    },
+    {
+      "Region": "Malaysia - Cellular",
+      "Rate": 0.022
+    },
+    {
+      "Region": "Maldives",
+      "Rate": 0.95
+    },
+    {
+      "Region": "Mali",
+      "Rate": 0.226
+    },
+    {
+      "Region": "Mali - Cellular",
+      "Rate": 0.295
+    },
+    {
+      "Region": "Malta",
+      "Rate": 0.03
+    },
+    {
+      "Region": "Malta - Cellular",
+      "Rate": 0.051
+    },
+    {
+      "Region": "Mariana Islands",
+      "Rate": 0.016
+    },
+    {
+      "Region": "Mariana Islands - Cellular",
+      "Rate": 0.016
+    },
+    {
+      "Region": "Marshall Islands",
+      "Rate": 0.281
+    },
+    {
+      "Region": "Marshall Islands - Cellular",
+      "Rate": 0.281
+    },
+    {
+      "Region": "Martinique",
+      "Rate": 0.023
+    },
+    {
+      "Region": "Martinique - Cellular",
+      "Rate": 0.038
+    },
+    {
+      "Region": "Mauritania",
+      "Rate": 0.395
+    },
+    {
+      "Region": "Mauritania - Cellular",
+      "Rate": 0.395
+    },
+    {
+      "Region": "Mauritius",
+      "Rate": 0.072
+    },
+    {
+      "Region": "Mayotte Island",
+      "Rate": 0.079
+    },
+    {
+      "Region": "Mexico - Aguascalientes",
+      "Rate": 0.015
+    },
+    {
+      "Region": "Mexico - Celaya",
+      "Rate": 0.015
+    },
+    {
+      "Region": "Mexico - Cellular - Iusacell",
+      "Rate": 0.018
+    },
+    {
+      "Region": "Mexico - Cellular - Movistar",
+      "Rate": 0.018
+    },
+    {
+      "Region": "Mexico - Cellular - Offnet - Telcel",
+      "Rate": 0.018
+    },
+    {
+      "Region": "Mexico - Cellular - Onnet - Telcel",
+      "Rate": 0.018
+    },
+    {
+      "Region": "Mexico - Chihuahua",
+      "Rate": 0.015
+    },
+    {
+      "Region": "Mexico - Durango",
+      "Rate": 0.015
+    },
+    {
+      "Region": "Mexico - Guadalajara",
+      "Rate": 0.013
+    },
+    {
+      "Region": "Mexico - Jalapa",
+      "Rate": 0.015
+    },
+    {
+      "Region": "Mexico - Leon",
+      "Rate": 0.015
+    },
+    {
+      "Region": "Mexico - Mexico City",
+      "Rate": 0.013
+    },
+    {
+      "Region": "Mexico - Monterrey",
+      "Rate": 0.013
+    },
+    {
+      "Region": "Mexico - Morelia",
+      "Rate": 0.015
+    },
+    {
+      "Region": "Mexico - Oaxaca",
+      "Rate": 0.015
+    },
+    {
+      "Region": "Mexico - Offnet",
+      "Rate": 0.015
+    },
+    {
+      "Region": "Mexico - Offnet Premiere",
+      "Rate": 0.015
+    },
+    {
+      "Region": "Mexico - Onnet",
+      "Rate": 0.015
+    },
+    {
+      "Region": "Mexico - Puebla",
+      "Rate": 0.013
+    },
+    {
+      "Region": "Mexico - Queretaro",
+      "Rate": 0.015
+    },
+    {
+      "Region": "Mexico - Reynosa",
+      "Rate": 0.015
+    },
+    {
+      "Region": "Mexico - ROC",
+      "Rate": 0.015
+    },
+    {
+      "Region": "Mexico - San Luis Potosi",
+      "Rate": 0.015
+    },
+    {
+      "Region": "Mexico - Satellite",
+      "Rate": 0.015
+    },
+    {
+      "Region": "Mexico - Tampico",
+      "Rate": 0.015
+    },
+    {
+      "Region": "Mexico - Toluca",
+      "Rate": 0.015
+    },
+    {
+      "Region": "Mexico - Torreon",
+      "Rate": 0.015
+    },
+    {
+      "Region": "Mexico - Zacatecas",
+      "Rate": 0.015
+    },
+    {
+      "Region": "Micronesia",
+      "Rate": 0.95
+    },
+    {
+      "Region": "Micronesia - Cellular",
+      "Rate": 0.95
+    },
+    {
+      "Region": "Moldova",
+      "Rate": 0.118
+    },
+    {
+      "Region": "Moldova - Cellular",
+      "Rate": 0.19
+    },
+    {
+      "Region": "Monaco",
+      "Rate": 0.067
+    },
+    {
+      "Region": "Monaco - Cellular",
+      "Rate": 0.295
+    },
+    {
+      "Region": "Mongolia",
+      "Rate": 0.038
+    },
+    {
+      "Region": "Mongolia - Cellular",
+      "Rate": 0.038
+    },
+    {
+      "Region": "Montenegro",
+      "Rate": 0.158
+    },
+    {
+      "Region": "Montenegro - Cellular",
+      "Rate": 0.316
+    },
+    {
+      "Region": "Montserrat",
+      "Rate": 0.238
+    },
+    {
+      "Region": "Montserrat - Cellular",
+      "Rate": 0.238
+    },
+    {
+      "Region": "Morocco",
+      "Rate": 0.03
+    },
+    {
+      "Region": "Morocco - Cellular",
+      "Rate": 0.364
+    },
+    {
+      "Region": "Morocco - Wana",
+      "Rate": 0.364
+    },
+    {
+      "Region": "Mozambique",
+      "Rate": 0.105
+    },
+    {
+      "Region": "Mozambique - Cellular",
+      "Rate": 0.2
+    },
+    {
+      "Region": "Myanmar",
+      "Rate": 0.061
+    },
+    {
+      "Region": "Myanmar - Cellular",
+      "Rate": 0.061
+    },
+    {
+      "Region": "Namibia",
+      "Rate": 0.076
+    },
+    {
+      "Region": "Namibia - Cellular",
+      "Rate": 0.105
+    },
+    {
+      "Region": "Nauru",
+      "Rate": 1.425
+    },
+    {
+      "Region": "Nepal",
+      "Rate": 0.125
+    },
+    {
+      "Region": "Nepal - Cellular",
+      "Rate": 0.125
+    },
+    {
+      "Region": "Nepal - Katmandu",
+      "Rate": 0.125
+    },
+    {
+      "Region": "Netherlands",
+      "Rate": 0.031
+    },
+    {
+      "Region": "Netherlands - Cellular",
+      "Rate": 0.048
+    },
+    {
+      "Region": "Netherlands Antilles",
+      "Rate": 0.037
+    },
+    {
+      "Region": "Netherlands Antilles - Cellular",
+      "Rate": 0.107
+    },
+    {
+      "Region": "Netherlands Antilles - Curacao",
+      "Rate": 0.037
+    },
+    {
+      "Region": "New Caledonia",
+      "Rate": 0.213
+    },
+    {
+      "Region": "New Zealand",
+      "Rate": 0.019
+    },
+    {
+      "Region": "New Zealand - Cellular",
+      "Rate": 0.051
+    },
+    {
+      "Region": "New Zealand - Scott Base",
+      "Rate": 0.051
+    },
+    {
+      "Region": "Nicaragua",
+      "Rate": 0.134
+    },
+    {
+      "Region": "Nicaragua - Cellular - Claro",
+      "Rate": 0.243
+    },
+    {
+      "Region": "Nicaragua - Cellular - Movistar",
+      "Rate": 0.243
+    },
+    {
+      "Region": "Niger",
+      "Rate": 0.217
+    },
+    {
+      "Region": "Niger - Cellular",
+      "Rate": 0.295
+    },
+    {
+      "Region": "Nigeria",
+      "Rate": 0.063
+    },
+    {
+      "Region": "Nigeria - Cellular - Celtel",
+      "Rate": 0.085
+    },
+    {
+      "Region": "Nigeria - Cellular - Globacom",
+      "Rate": 0.085
+    },
+    {
+      "Region": "Nigeria - Cellular - MTN",
+      "Rate": 0.085
+    },
+    {
+      "Region": "Nigeria - Cellular - Other",
+      "Rate": 0.085
+    },
+    {
+      "Region": "Nigeria - Cellular - Visafone",
+      "Rate": 0.085
+    },
+    {
+      "Region": "Nigeria - Lagos",
+      "Rate": 0.063
+    },
+    {
+      "Region": "Niue",
+      "Rate": 0.562
+    },
+    {
+      "Region": "Norfolk Island",
+      "Rate": 1.584
+    },
+    {
+      "Region": "North Korea",
+      "Rate": 0.387
+    },
+    {
+      "Region": "Norway",
+      "Rate": 0.023
+    },
+    {
+      "Region": "Norway - Cellular",
+      "Rate": 0.048
+    },
+    {
+      "Region": "Oman",
+      "Rate": 0.263
+    },
+    {
+      "Region": "Oman - Cellular",
+      "Rate": 0.263
+    },
+    {
+      "Region": "Pakistan",
+      "Rate": 0.042
+    },
+    {
+      "Region": "Pakistan - Cellular - Other",
+      "Rate": 0.042
+    },
+    {
+      "Region": "Pakistan - Cellular - Telenor",
+      "Rate": 0.017
+    },
+    {
+      "Region": "Pakistan - Cellular - Warid",
+      "Rate": 0.044
+    },
+    {
+      "Region": "Palau",
+      "Rate": 0.314
+    },
+    {
+      "Region": "Palestine",
+      "Rate": 0.189
+    },
+    {
+      "Region": "Palestine - Cellular",
+      "Rate": 0.189
+    },
+    {
+      "Region": "Panama",
+      "Rate": 0.023
+    },
+    {
+      "Region": "Panama - Cellular",
+      "Rate": 0.108
+    },
+    {
+      "Region": "Papua New Guinea",
+      "Rate": 0.95
+    },
+    {
+      "Region": "Paraguay",
+      "Rate": 0.038
+    },
+    {
+      "Region": "Paraguay - Asuncion",
+      "Rate": 0.038
+    },
+    {
+      "Region": "Paraguay - Cellular",
+      "Rate": 0.073
+    },
+    {
+      "Region": "Peru",
+      "Rate": 0.013
+    },
+    {
+      "Region": "Peru - Cellular - America Movil",
+      "Rate": 0.03
+    },
+    {
+      "Region": "Peru - Cellular - Nextel",
+      "Rate": 0.048
+    },
+    {
+      "Region": "Peru - Cellular - Other",
+      "Rate": 0.038
+    },
+    {
+      "Region": "Peru - Cellular - Telefonica",
+      "Rate": 0.03
+    },
+    {
+      "Region": "Peru - Lima",
+      "Rate": 0.01
+    },
+    {
+      "Region": "Peru - Rural",
+      "Rate": 0.315
+    },
+    {
+      "Region": "Philippines",
+      "Rate": 0.091
+    },
+    {
+      "Region": "Philippines - Cellular - Globe",
+      "Rate": 0.118
+    },
+    {
+      "Region": "Philippines - Cellular - Other",
+      "Rate": 0.143
+    },
+    {
+      "Region": "Philippines - Cellular - Smart",
+      "Rate": 0.127
+    },
+    {
+      "Region": "Philippines - Cellular - Sun",
+      "Rate": 0.143
+    },
+    {
+      "Region": "Philippines - Manila",
+      "Rate": 0.091
+    },
+    {
+      "Region": "Poland",
+      "Rate": 0.01
+    },
+    {
+      "Region": "Poland - Cellular",
+      "Rate": 0.095
+    },
+    {
+      "Region": "Poland - Warsaw",
+      "Rate": 0.01
+    },
+    {
+      "Region": "Portugal",
+      "Rate": 0.019
+    },
+    {
+      "Region": "Portugal - Cellular",
+      "Rate": 0.078
+    },
+    {
+      "Region": "Puerto Rico",
+      "Rate": 0.016
+    },
+    {
+      "Region": "Puerto Rico - Cellular",
+      "Rate": 0.016
+    },
+    {
+      "Region": "Qatar",
+      "Rate": 0.19
+    },
+    {
+      "Region": "Qatar - Cellular",
+      "Rate": 0.19
+    },
+    {
+      "Region": "Reunion Island",
+      "Rate": 0.102
+    },
+    {
+      "Region": "Reunion Island - Cellular",
+      "Rate": 0.102
+    },
+    {
+      "Region": "Romania",
+      "Rate": 0.023
+    },
+    {
+      "Region": "Romania - Cellular",
+      "Rate": 0.032
+    },
+    {
+      "Region": "Russia",
+      "Rate": 0.026
+    },
+    {
+      "Region": "Russia - Abkhazia",
+      "Rate": 0.026
+    },
+    {
+      "Region": "Russia - Cellular - Beeline",
+      "Rate": 0.226
+    },
+    {
+      "Region": "Russia - Cellular - Megafone",
+      "Rate": 0.045
+    },
+    {
+      "Region": "Russia - Cellular - MTS",
+      "Rate": 0.045
+    },
+    {
+      "Region": "Russia - Cellular - Other",
+      "Rate": 0.045
+    },
+    {
+      "Region": "Russia - Moscow",
+      "Rate": 0.016
+    },
+    {
+      "Region": "Russia - St. Petersburg",
+      "Rate": 0.01
+    },
+    {
+      "Region": "Rwanda",
+      "Rate": 0.295
+    },
+    {
+      "Region": "Rwanda - Cellular",
+      "Rate": 0.295
+    },
+    {
+      "Region": "Samoa",
+      "Rate": 0.57
+    },
+    {
+      "Region": "Samoa - Cellular",
+      "Rate": 0.57
+    },
+    {
+      "Region": "San Marino",
+      "Rate": 0.031
+    },
+    {
+      "Region": "San Marino - Cellular",
+      "Rate": 0.031
+    },
+    {
+      "Region": "Sao Tome and Principe",
+      "Rate": 0.95
+    },
+    {
+      "Region": "Saudi Arabia",
+      "Rate": 0.086
+    },
+    {
+      "Region": "Saudi Arabia - Cellular - Other",
+      "Rate": 0.114
+    },
+    {
+      "Region": "Saudi Arabia - Cellular - STC",
+      "Rate": 0.114
+    },
+    {
+      "Region": "Senegal",
+      "Rate": 0.213
+    },
+    {
+      "Region": "Senegal - Cellular - Orange",
+      "Rate": 0.295
+    },
+    {
+      "Region": "Senegal - Cellular - Sudatel",
+      "Rate": 0.295
+    },
+    {
+      "Region": "Senegal - Cellular - Tigo",
+      "Rate": 0.238
+    },
+    {
+      "Region": "Serbia",
+      "Rate": 0.118
+    },
+    {
+      "Region": "Serbia - Cellular",
+      "Rate": 0.339
+    },
+    {
+      "Region": "Serbia - Kosovo",
+      "Rate": 0.082
+    },
+    {
+      "Region": "Serbia - Olo",
+      "Rate": 0.339
+    },
+    {
+      "Region": "Seychelles",
+      "Rate": 0.665
+    },
+    {
+      "Region": "Sierra Leone",
+      "Rate": 0.285
+    },
+    {
+      "Region": "Sierra Leone - Cellular",
+      "Rate": 0.396
+    },
+    {
+      "Region": "Singapore",
+      "Rate": 0.016
+    },
+    {
+      "Region": "Singapore - Cellular",
+      "Rate": 0.016
+    },
+    {
+      "Region": "Slovakia",
+      "Rate": 0.026
+    },
+    {
+      "Region": "Slovakia - Cellular",
+      "Rate": 0.105
+    },
+    {
+      "Region": "Slovenia",
+      "Rate": 0.153
+    },
+    {
+      "Region": "Slovenia - Cellular",
+      "Rate": 0.213
+    },
+    {
+      "Region": "Solomon Islands",
+      "Rate": 0.523
+    },
+    {
+      "Region": "Somalia",
+      "Rate": 0.365
+    },
+    {
+      "Region": "Somalia - Cellular",
+      "Rate": 0.365
+    },
+    {
+      "Region": "South Africa",
+      "Rate": 0.053
+    },
+    {
+      "Region": "South Africa - Cape Town",
+      "Rate": 0.053
+    },
+    {
+      "Region": "South Africa - Cellular",
+      "Rate": 0.027
+    },
+    {
+      "Region": "South Africa - Cellular - MTN",
+      "Rate": 0.064
+    },
+    {
+      "Region": "South Africa - Johannesburg",
+      "Rate": 0.053
+    },
+    {
+      "Region": "South Korea",
+      "Rate": 0.019
+    },
+    {
+      "Region": "South Korea - Cellular",
+      "Rate": 0.038
+    },
+    {
+      "Region": "South Sudan",
+      "Rate": 0.238
+    },
+    {
+      "Region": "South Sudan - Cellular",
+      "Rate": 0.238
+    },
+    {
+      "Region": "Spain",
+      "Rate": 0.019
+    },
+    {
+      "Region": "Spain - Cellular",
+      "Rate": 0.038
+    },
+    {
+      "Region": "Spain - Cellular - Special",
+      "Rate": 0.038
+    },
+    {
+      "Region": "Special locations",
+      "Rate": 0.143
+    },
+    {
+      "Region": "Sri Lanka",
+      "Rate": 0.136
+    },
+    {
+      "Region": "Sri Lanka - Cellular",
+      "Rate": 0.136
+    },
+    {
+      "Region": "St. Helena",
+      "Rate": 2.692
+    },
+    {
+      "Region": "St. Kitts and Nevis",
+      "Rate": 0.17
+    },
+    {
+      "Region": "St. Kitts and Nevis - Cellular",
+      "Rate": 0.226
+    },
+    {
+      "Region": "St. Lucia",
+      "Rate": 0.165
+    },
+    {
+      "Region": "St. Lucia - Cellular",
+      "Rate": 0.226
+    },
+    {
+      "Region": "St. Maarten",
+      "Rate": 0.118
+    },
+    {
+      "Region": "St. Maarten - Cellular",
+      "Rate": 0.118
+    },
+    {
+      "Region": "St. Pierre and Miquelon",
+      "Rate": 0.158
+    },
+    {
+      "Region": "St. Pierre and Miquelon - Cellular",
+      "Rate": 0.158
+    },
+    {
+      "Region": "St. Vincent",
+      "Rate": 0.14
+    },
+    {
+      "Region": "St. Vincent - Cellular",
+      "Rate": 0.238
+    },
+    {
+      "Region": "Sudan",
+      "Rate": 0.14
+    },
+    {
+      "Region": "Sudan - Cellular - MTN",
+      "Rate": 0.146
+    },
+    {
+      "Region": "Sudan - Cellular - Sudatel",
+      "Rate": 0.146
+    },
+    {
+      "Region": "Sudan - Cellular - Zain",
+      "Rate": 0.093
+    },
+    {
+      "Region": "Suriname",
+      "Rate": 0.175
+    },
+    {
+      "Region": "Suriname - Cellular",
+      "Rate": 0.278
+    },
+    {
+      "Region": "Swaziland",
+      "Rate": 0.196
+    },
+    {
+      "Region": "Swaziland - Cellular",
+      "Rate": 0.196
+    },
+    {
+      "Region": "Sweden",
+      "Rate": 0.019
+    },
+    {
+      "Region": "Sweden - Cellular",
+      "Rate": 0.029
+    },
+    {
+      "Region": "Switzerland",
+      "Rate": 0.019
+    },
+    {
+      "Region": "Switzerland - Cellular",
+      "Rate": 0.125
+    },
+    {
+      "Region": "Switzerland - Cellular - Sunrise",
+      "Rate": 0.125
+    },
+    {
+      "Region": "Syria",
+      "Rate": 0.251
+    },
+    {
+      "Region": "Syria - Cellular",
+      "Rate": 0.34
+    },
+    {
+      "Region": "Taiwan",
+      "Rate": 0.019
+    },
+    {
+      "Region": "Taiwan - Cellular",
+      "Rate": 0.095
+    },
+    {
+      "Region": "Tajikistan",
+      "Rate": 0.118
+    },
+    {
+      "Region": "Tajikistan - Cellular",
+      "Rate": 0.118
+    },
+    {
+      "Region": "Tanzania",
+      "Rate": 0.295
+    },
+    {
+      "Region": "Tanzania - Cellular",
+      "Rate": 0.339
+    },
+    {
+      "Region": "Thailand",
+      "Rate": 0.013
+    },
+    {
+      "Region": "Thailand - Bangkok",
+      "Rate": 0.013
+    },
+    {
+      "Region": "Thailand - Cellular",
+      "Rate": 0.018
+    },
+    {
+      "Region": "Togo",
+      "Rate": 0.339
+    },
+    {
+      "Region": "Togo - Cellular",
+      "Rate": 0.285
+    },
+    {
+      "Region": "Tokelau",
+      "Rate": 2.375
+    },
+    {
+      "Region": "Tonga",
+      "Rate": 0.665
+    },
+    {
+      "Region": "Tonga - Cellular",
+      "Rate": 0.665
+    },
+    {
+      "Region": "Trinidad and Tobago",
+      "Rate": 0.118
+    },
+    {
+      "Region": "Trinidad and Tobago - Cellular",
+      "Rate": 0.19
+    },
+    {
+      "Region": "Tunisia",
+      "Rate": 0.57
+    },
+    {
+      "Region": "Tunisia - Cellular",
+      "Rate": 0.57
+    },
+    {
+      "Region": "Turkey",
+      "Rate": 0.036
+    },
+    {
+      "Region": "Turkey - Ankara",
+      "Rate": 0.036
+    },
+    {
+      "Region": "Turkey - Bursa",
+      "Rate": 0.036
+    },
+    {
+      "Region": "Turkey - Cellular",
+      "Rate": 0.14
+    },
+    {
+      "Region": "Turkey - Istanbul",
+      "Rate": 0.032
+    },
+    {
+      "Region": "Turkmenistan",
+      "Rate": 0.135
+    },
+    {
+      "Region": "Turks and Caicos",
+      "Rate": 0.105
+    },
+    {
+      "Region": "Turks and Caicos - Cellular",
+      "Rate": 0.206
+    },
+    {
+      "Region": "Tuvalu",
+      "Rate": 0.374
+    },
+    {
+      "Region": "Uganda",
+      "Rate": 0.247
+    },
+    {
+      "Region": "Uganda - Cellular",
+      "Rate": 0.279
+    },
+    {
+      "Region": "Ukraine",
+      "Rate": 0.118
+    },
+    {
+      "Region": "Ukraine - Cellular",
+      "Rate": 0.158
+    },
+    {
+      "Region": "United Arab Emirates",
+      "Rate": 0.158
+    },
+    {
+      "Region": "United Arab Emirates - Cellular",
+      "Rate": 0.158
+    },
+    {
+      "Region": "United Kingdom",
+      "Rate": 0.013
+    },
+    {
+      "Region": "United Kingdom - Cellular - Hutchison",
+      "Rate": 0.048
+    },
+    {
+      "Region": "United Kingdom - Cellular - O2",
+      "Rate": 0.048
+    },
+    {
+      "Region": "United Kingdom - Cellular - Orange",
+      "Rate": 0.048
+    },
+    {
+      "Region": "United Kingdom - Cellular - Other",
+      "Rate": 0.238
+    },
+    {
+      "Region": "United Kingdom - Cellular - Special",
+      "Rate": 0.238
+    },
+    {
+      "Region": "United Kingdom - Cellular - T-Mobile",
+      "Rate": 0.048
+    },
+    {
+      "Region": "United Kingdom - Cellular - Vodafone",
+      "Rate": 0.048
+    },
+    {
+      "Region": "United Kingdom - Personal Numbering",
+      "Rate": 0.238
+    },
+    {
+      "Region": "Uruguay",
+      "Rate": 0.063
+    },
+    {
+      "Region": "Uruguay - Cellular",
+      "Rate": 0.158
+    },
+    {
+      "Region": "Uruguay - Montevideo",
+      "Rate": 0.051
+    },
+    {
+      "Region": "US Virgin Islands",
+      "Rate": 0.016
+    },
+    {
+      "Region": "US Virgin Islands - Cellular",
+      "Rate": 0.016
+    },
+    {
+      "Region": "Uzbekistan",
+      "Rate": 0.077
+    },
+    {
+      "Region": "Uzbekistan - Cellular",
+      "Rate": 0.077
+    },
+    {
+      "Region": "Uzbekistan - Tashkent",
+      "Rate": 0.104
+    },
+    {
+      "Region": "Vanuatu",
+      "Rate": 0.631
+    },
+    {
+      "Region": "Venezuela",
+      "Rate": 0.017
+    },
+    {
+      "Region": "Venezuela - Caracas",
+      "Rate": 0.017
+    },
+    {
+      "Region": "Venezuela - Cellular",
+      "Rate": 0.076
+    },
+    {
+      "Region": "Vietnam",
+      "Rate": 0.063
+    },
+    {
+      "Region": "Vietnam - Cellular",
+      "Rate": 0.072
+    },
+    {
+      "Region": "Vietnam - Ha Noi",
+      "Rate": 0.063
+    },
+    {
+      "Region": "Vietnam - Ho Chi Minh",
+      "Rate": 0.063
+    },
+    {
+      "Region": "Wallis and Futuna",
+      "Rate": 0.035
+    },
+    {
+      "Region": "Yemen",
+      "Rate": 1.109
+    },
+    {
+      "Region": "Yemen - Cellular - MTN",
+      "Rate": 1.109
+    },
+    {
+      "Region": "Yemen - Cellular - Other",
+      "Rate": 1.109
+    },
+    {
+      "Region": "Yemen - Cellular - Sabafon",
+      "Rate": 1.109
+    },
+    {
+      "Region": "Zambia",
+      "Rate": 0.365
+    },
+    {
+      "Region": "Zambia - Cellular",
+      "Rate": 0.441
+    },
+    {
+      "Region": "Zimbabwe",
+      "Rate": 0.086
+    },
+    {
+      "Region": "Zimbabwe - Cellular",
+      "Rate": 0.437
+    }
+  ]
+}

@@ -1,54 +1,56 @@
 import React, { Component } from "react";
 import { connect } from "react-redux";
 import * as storeActions from "../../redux/actions/storeActions";
-import {bindActionCreators} from 'redux'
+import * as unlimitedRatesActions from "../../redux/actions/unlimitedRatesActions";
+import { bindActionCreators } from "redux";
 import PropTypes from "prop-types";
-class StorePage extends Component {
-  state = {
-    products: {
-      title: ""
-    }
-  };
 
-  handleChange = event => {
-    const product = { ...this.state.products, title: event.target.value };
-    this.setState({ products: product });
-  };
-  handleSubmit = event => {
-    event.preventDefault();
-    this.props.actions.createProduct(this.state.products);
-  };
+
+class StorePage extends Component {
+  componentDidMount(){
+    const {actions, products, unlimitedRates} = this.props
+    if(products.length === 0){actions.loadFood()}
+    if(unlimitedRates.length === 0){actions.loadUnlimited()}
+  }
   render() {
     return (
-      <form onSubmit={this.handleSubmit}>
+      <>
         <h1>Store-products</h1>
-        <h3>add product</h3>
-        <input
-          type="text"
-          onChange={this.handleChange}
-          value={this.state.products.title}
-        />
-        <input type="submit" value="Save" />
+        <p>this displays all products</p>
         {this.props.products.map(product => (
-          <div key={product.title}>{product.title}</div>
+          <div key={product.id}>{product.Name}</div>
         ))}
-      </form>
-    );
+        <h1>Unlimited rates</h1>
+        <p>{this.props.unlimitedRates.length -1} countries listed</p>
+        {this.props.unlimitedRates.map(rate => (
+          <div key={rate.Country}>{rate.Country} || {rate.Destinations}</div>
+        ))}
+      </>
+    ); 
   }
 }
+
 StorePage.propTypes = {
   products: PropTypes.array.isRequired,
   actions: PropTypes.object.isRequired
 };
+
 function mapStateToProps(state, ownProps) {
   return {
-    products: state.products
+    products: state.products,
+    unlimitedRates: state.unlimitedRates
   };
 }
 function mapDispatchToProps(dispatch) {
   return {
-    actions: bindActionCreators(storeActions, dispatch)
-  }
+    actions: {
+      loadFood: bindActionCreators(storeActions.loadFood, dispatch),
+      loadUnlimited: bindActionCreators(unlimitedRatesActions.loadUnlimited, dispatch)
+    }
+  };
 }
 
-export default connect(mapStateToProps, mapDispatchToProps)(StorePage);
+export default connect(
+  mapStateToProps,
+  mapDispatchToProps
+)(StorePage);

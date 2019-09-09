@@ -13,6 +13,9 @@ const NavBar = props => (
       <li>
         <Link to="/store">Store</Link>
       </li>
+      <li>
+        <Link to="/diy001">how to build a component</Link>
+      </li>
     </ul>
   </nav>
 );
