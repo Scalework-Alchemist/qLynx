@@ -4,10 +4,11 @@
   "private": true,
   "dependencies": {
     "axios": "^0.19.0",
-    "npm-run-all": "^4.1.5",
+    "json-server": "^0.15.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-redux": "^7.1.0",
+    "react-router-dom": "^5.1.2",
     "react-scripts": "3.1.0",
     "redux": "^4.0.4",
     "redux-immutable-state-invariant": "^2.1.0",
@@ -17,7 +18,7 @@
   "scripts": {
     "start": "run-p start:dev start:api ",
     "start:api": "json-server --watch products.json",
-    "start:dev": "react-scripts start",
+    "start:dev": "set PORT=5000 && react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -39,7 +40,9 @@
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "npm-run-all": "^4.1.5"
+  },
   "author": "Scalework Alchemist",
   "license": "ISC"
 }
